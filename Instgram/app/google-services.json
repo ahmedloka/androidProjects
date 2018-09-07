@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "764983713600",
+    "firebase_url": "https://instgram-28689.firebaseio.com",
+    "project_id": "instgram-28689",
+    "storage_bucket": "instgram-28689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764983713600:android:77810132aad72995",
+        "android_client_info": {
+          "package_name": "com.gamecodeschool.instgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764983713600-f60j2c0n174ct30s53doh4s2nr92hc79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamecodeschool.instgram",
+            "certificate_hash": "499776d962c3eff2f3801b474150870a86172d6a"
+          }
+        },
+        {
+          "client_id": "764983713600-osma56i7pf2dpamfjei1vmcatd2o3d61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWorjYzROsNw37QMu5OsnoBvuhEU3-dOc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764983713600-osma56i7pf2dpamfjei1vmcatd2o3d61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

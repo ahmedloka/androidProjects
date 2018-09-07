@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "828448852430",
+    "firebase_url": "https://instgramandroid-15bca.firebaseio.com",
+    "project_id": "instgramandroid-15bca",
+    "storage_bucket": "instgramandroid-15bca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828448852430:android:df87a8897829ecba",
+        "android_client_info": {
+          "package_name": "com.gamecodeschool.instgramandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828448852430-tnob5k1ma493u4o3jaj4o79b5uniurgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamecodeschool.instgramandroid",
+            "certificate_hash": "499776d962c3eff2f3801b474150870a86172d6a"
+          }
+        },
+        {
+          "client_id": "828448852430-d7il9q72o7u5t4hhn3ocedakt4b22prh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMv1Esh7GPKyYFWxr9hyR4G2m_QfwBbDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828448852430-d7il9q72o7u5t4hhn3ocedakt4b22prh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828448852430:android:0f3cf45037d47590",
+        "android_client_info": {
+          "package_name": "demo.clone.uber.com.filebaseexampleproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828448852430-5r39coov64f4tscejhumdibtkl0u5i2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "demo.clone.uber.com.filebaseexampleproject",
+            "certificate_hash": "499776d962c3eff2f3801b474150870a86172d6a"
+          }
+        },
+        {
+          "client_id": "828448852430-d7il9q72o7u5t4hhn3ocedakt4b22prh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMv1Esh7GPKyYFWxr9hyR4G2m_QfwBbDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828448852430-d7il9q72o7u5t4hhn3ocedakt4b22prh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828448852430:android:c4f3ea74e7013731",
+        "android_client_info": {
+          "package_name": "firebaseuploud.mygdx.com.firebaseuploudexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828448852430-cbhucnj8mhqi40q5g5lhltevqmnpotns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebaseuploud.mygdx.com.firebaseuploudexample",
+            "certificate_hash": "499776d962c3eff2f3801b474150870a86172d6a"
+          }
+        },
+        {
+          "client_id": "828448852430-d7il9q72o7u5t4hhn3ocedakt4b22prh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMv1Esh7GPKyYFWxr9hyR4G2m_QfwBbDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828448852430-d7il9q72o7u5t4hhn3ocedakt4b22prh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UserList">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolBar"
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:background="#9699a5">
+
+        </android.support.v7.widget.Toolbar>
+
+        <TextView
+            android:id="@+id/txtViewCuuUserName"
+            android:layout_width="match_parent"
+            android:layout_height="47dp"
+            android:gravity="center_horizontal"
+            android:textColorHighlight="#e8c8c8"
+            android:textSize="20sp"
+            android:textStyle="normal|bold|italic" />
+
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:layout_marginTop="20dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"></ListView>
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
